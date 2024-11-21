@@ -1,0 +1,15 @@
+streamlit
+pandas
+langchain
+langchain-community
+langchain-core
+langchain-together
+langchain-huggingface
+faiss-cpu
+tqdm
+sentence-transformers
+streamlit
+pandas
+langchain-community
+deep-translator
+google-generativeai
